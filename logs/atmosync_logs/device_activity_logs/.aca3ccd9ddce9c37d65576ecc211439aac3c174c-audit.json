@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "C:\\xampp\\htdocs\\project\\logs\\atmosync_logs\\device_activity_logs\\.aca3ccd9ddce9c37d65576ecc211439aac3c174c-audit.json",
+    "files": [
+        {
+            "date": 1752085800239,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\atmosync_logs\\device_activity_logs\\2025-07-10.log",
+            "hash": "8126e2bec56d8f1313cd4e2642c8f1e2cc5bf5e219f955ed0b4f6ca2881d02b8"
+        },
+        {
+            "date": 1752172200160,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\atmosync_logs\\device_activity_logs\\2025-07-11.log",
+            "hash": "ca7411b2e586eb6f2a563f1e419ec55572fe1802ff1e4f4f98df7ee768e74876"
+        }
+    ],
+    "hashType": "sha256"
+}

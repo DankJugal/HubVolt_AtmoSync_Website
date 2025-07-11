@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 90
+    },
+    "auditLog": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\.591e9c45a152adccd91a4c9f5ae24c9c70f46bf5-audit.json",
+    "files": [
+        {
+            "date": 1751274295900,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\2025-06-30.log",
+            "hash": "59e6f206ece67c9ef129100bb738de140b01eb4fc449020e7418635ab1667a4f"
+        },
+        {
+            "date": 1751358985014,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\2025-07-01.log",
+            "hash": "bc05c8ea7d8357965c454b08908c5206171b62720372b1c89ab16997b4e764a7"
+        },
+        {
+            "date": 1751439898546,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\2025-07-02.log",
+            "hash": "e3f93d354c233a8ab0d9ecf69f6ee7a7b274c4d365b6816c1f4429ec79877d29"
+        },
+        {
+            "date": 1751524790893,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\2025-07-03.log",
+            "hash": "23a42e51660c1a2e10e75ef70194bb9c36817a0264b1b9d9cac5e1f4d3792767"
+        },
+        {
+            "date": 1751615935859,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\2025-07-04.log",
+            "hash": "9fa0a16a0be3f5aaa3b73c22a26257a729648c8ee058bbd7b12e06e981f49fb4"
+        },
+        {
+            "date": 1751893451004,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\2025-07-07.log",
+            "hash": "08797322f13935d9e962eeda4384661a36f309890b75ed4e793f195f5f9836e3"
+        },
+        {
+            "date": 1751945795031,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\2025-07-08.log",
+            "hash": "7eeb88de06ca95edc5e6b84990dcdb968c360ce356e4b7f33a25fa847a374b68"
+        },
+        {
+            "date": 1752045396587,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\2025-07-09.log",
+            "hash": "c016acad4d0bbc285af59e0d710d51ad6cfbb5999d4ce5a6cb644d6c710a1378"
+        },
+        {
+            "date": 1752133151148,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\hubvolt_logs\\device_activity_logs\\2025-07-10.log",
+            "hash": "c899f933db199c3b016a6baef75cf5bd4e5f3d41198cd0daa26555fe151422be"
+        }
+    ],
+    "hashType": "sha256"
+}

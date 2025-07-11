@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 90
+    },
+    "auditLog": "C:\\xampp\\htdocs\\project\\logs\\atmosync_logs\\device_activity_logs\\.c5eadc0bbcfbeed70cdb8c9b8fd36ef0cb2f783c-audit.json",
+    "files": [
+        {
+            "date": 1751274462489,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\atmosync_logs\\device_activity_logs\\2025-06-30.log",
+            "hash": "e04a949b1b672b6a3701f4b46f42708be8ef4cdb31f021473f033f98f6bd07bf"
+        },
+        {
+            "date": 1751308200049,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\atmosync_logs\\device_activity_logs\\2025-07-01.log",
+            "hash": "eb8fb77514dc05f1309bb57b0b561307ea0b44f1e84b2a7b431402c866510b25"
+        },
+        {
+            "date": 1751394600054,
+            "name": "C:\\xampp\\htdocs\\project\\logs\\atmosync_logs\\device_activity_logs\\2025-07-02.log",
+            "hash": "233c23282c50054d220ef406f8fed9dc28cb7a109fc74b183ca366b56d496177"
+        }
+    ],
+    "hashType": "sha256"
+}
